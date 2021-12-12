@@ -1,0 +1,68 @@
+body {
+   background-color: white;
+   margin: 0;
+}
+
+.container {
+   max-width: 900px;
+   margin: 15px auto;
+   border-radius: 15px;
+   background-color: rgb(227, 230, 232);
+   
+}
+
+header {
+   font-family: Caveat;
+   font-size: 32px;
+   font-weight: 500;
+   text-align: center;
+   color: orangered;
+   margin: 0;
+   padding: 5px;
+}
+
+.muffins-card {
+   max-width: 250px;
+   padding: 25px;
+   text-align: center;
+   display: inline-block;
+}
+
+.muffins {
+   width: 250px;
+   height: 200px;
+   border-radius: 15px;
+}
+
+.rolls-card {
+   max-width: 250px;
+   padding: 20px;
+   text-align: center;
+   display: inline-block;
+}
+
+.rolls {
+   width: 250px;
+   height: 200px;
+   border-radius: 15px;
+}
+
+.cheese-card {
+   max-width: 250px;
+   padding: 25px;
+   text-align: center;
+   display: inline-block;
+}
+
+.cheese {
+   width: 250px;
+   height: 200px;
+   border-radius: 15px;
+}
+a {
+   text-decoration: none;
+   font-family: Caveat;
+   font-weight: 400;
+   font-size: 22px;
+   color: orangered;
+}
